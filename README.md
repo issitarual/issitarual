@@ -1,8 +1,9 @@
 ### Hi there, I'm Laura 👋
-- 🌱 I’m currently studying to become a Full Stack Developer 
+- 🔭 I’m currently studying to become a Full Stack Developer 
+- 🌱 I’m currently learnig back-end development
 - ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=issitarual&show_icons=true&theme=radical)
 - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=issitarual&layout=compact&theme=radical)](https://github.com/issitarual/github-readme-stats)
-- 📫 How to reach me: ...
+### 📫 How to reach me: ...
 - 😄 Pronouns: She/Her
 
 <!--
