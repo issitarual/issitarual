@@ -1,9 +1,19 @@
 ### Hi there, I'm Laura 👋
 - 🔭 I’m currently studying to become a Full Stack Developer 
 - 🌱 I’m currently learnig back-end development
-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=issitarual&show_icons=true&theme=radical)
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=issitarual&layout=compact&theme=radical)](https://github.com/issitarual/github-readme-stats)
-### 📫 How to reach me: ...
+### Languages and Tools
+### My gitHub Stats
+<br />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=issitarual&show_icons=true&theme=radical)
+<br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=issitarual&layout=compact&theme=radical)](https://github.com/issitarual/github-readme-stats)
+### 📫 How to reach me
+<p align="center">
+ <a href="https://linkedin.com/in/issitarual" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="mailto:laura.tracierra@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+</p>
+
+<br />
 - 😄 Pronouns: She/Her
 
 <!--
