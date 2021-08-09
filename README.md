@@ -2,7 +2,7 @@
 - 🔭 I’m currently studying to become a Full Stack Developer 
 - 🌱 I’m currently learnig back-end development
 - 😄 Pronouns: She/Her
-<h3 align="left"> 🧰 Languages and Tools:</h3>
+### 🧰 Languages and Tools:
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://simpleicons.org/icons/html5.svg" alt="html5" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://simpleicons.org/icons/css3.svg" alt="css3" width="40" height="40"/> </a> 
