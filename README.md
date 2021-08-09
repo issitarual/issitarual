@@ -13,12 +13,14 @@
   <a href="https://www.postgresql.org" target="_blank"> <img src="https://simpleicons.org/icons/postgresql.svg" alt="postgresql" width="40" height="40"/> </a> 
    <a href="https://www.typescript.org" target="_blank"> <img src="https://simpleicons.org/icons/typescript.svg" alt="postgresql" width="40" height="40"/> </a> 
 </p>
- <h3 align="left">📫 How to reach me:</h3>
-<p >
+
+### 📫 How to reach me:
+<p>
  <a href="https://linkedin.com/in/issitarual" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" height="20" style="vertical-align:top; margin:4px"></a>
  <a href="mailto:laura.tracierra@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="20" style="vertical-align:top; margin:4px"></a>
 </p>
-<h3 align="left"> My gitHub Stats:</h3>
+
+### My gitHub Stats:
 <details><summary>:zap: GitHub Stats</summary><img align="left" alt="Laura's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=issitarual&show_icons=true&theme=radical" /></details>
 <details><summary>:zap: Most Used Languages</summary><img align="left" alt="Laura's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=issitarual&layout=compact&theme=radical" /></details>
 
