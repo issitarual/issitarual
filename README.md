@@ -1,7 +1,7 @@
 ### Hi there, I'm Laura 👋
 - 🔭 I’m currently studying to become a Full Stack Developer 
 - 🌱 I’m currently learnig back-end development
-- ⚡ Fun fact: I'm a mug collector that hates coffe and uses it to drink hot chocolate ☕
+- ☕ Fun fact: I'm a mug collector that hates coffe and uses it to drink hot chocolate
 - 😄 Pronouns: She/Her
 ### 🧰 Languages and Tools:
 <p align="left">
