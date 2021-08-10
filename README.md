@@ -21,7 +21,7 @@
  <a href="mailto:laura.tracierra@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="20" style="vertical-align:top; margin:4px"></a>
 </p>
 
-### My gitHub Stats:
+### ✨ My gitHub Stats:
 <details><summary>:zap: GitHub Stats</summary><img align="left" alt="Laura's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=issitarual&show_icons=true&theme=radical" /></details>
 <details><summary>:zap: Most Used Languages</summary><img align="left" alt="Laura's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=issitarual&layout=compact&theme=radical" /></details>
 
