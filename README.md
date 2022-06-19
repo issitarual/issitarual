@@ -1,5 +1,5 @@
 ### Hi there, I'm Laura 👋
-- 🔭 I’m Full Stack Developer 
+- 🔭 I’m a Full Stack Developer 
 - ☕ Fun fact: I'm a mug collector that hates coffe and uses it to drink hot chocolate
 - 😄 Pronouns: She/Her
 ### 🧰 Languages and Tools:
